@@ -29,5 +29,5 @@ Im a Jr. Programmer. Currently open for offers.
  
 <h2> GitHub Stats </h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gra-briel&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnov&show_icons=true&theme=tokyonight)
 
