@@ -18,6 +18,7 @@ Im a Jr. Programmer. Currently open for offers.
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Boostrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 
 <h2> 🔹 Other Skills 🔹</h2>
 
