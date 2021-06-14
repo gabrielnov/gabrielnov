@@ -3,7 +3,6 @@
 Im a Jr. Programmer. Currently open for offers. 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielnov/)](https://www.linkedin.com/in/gabrielnov/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/not4t4ll/)](https://www.facebook.com/not4t4ll/)
 
 <h2>  🔹 Languages 🔹 </h2>
 
