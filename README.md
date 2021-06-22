@@ -28,8 +28,8 @@ Im a Jr. Programmer. Currently open for offers.
  
 <h2> GitHub Stats </h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnov&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnov&show_icons=true&theme=tokyonight&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnov&theme=tokyonight)
+![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnov&theme=tokyonight&layout=compact)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnov&theme=tokyonight
+
