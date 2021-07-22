@@ -1,6 +1,6 @@
 <h2> Hi there! </h2> 
 
-Im a Jr. Programmer. Currently open for offers. 
+Java Developer for NTT Data Business Solutions Brazil.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielnov/)](https://www.linkedin.com/in/gabrielnov/)
 
