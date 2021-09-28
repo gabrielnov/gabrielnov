@@ -9,8 +9,10 @@ Java Developer for NTT Data Business Solutions Brazil.
  
 <h2> GitHub Stats </h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnov&show_icons=true&theme=tokyonight&layout=compact)
 
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnov&theme=tokyonight&layout=compact)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnov&show_icons=true&theme=tokyonight&layout=compact)
+
 
 
