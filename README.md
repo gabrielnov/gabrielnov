@@ -1,8 +1,26 @@
 <h2> Hi there! </h2> 
 
-Fullstack developer at Peopleware Tecnologia.
+<h3> Fullstack developer at Peopleware Tecnologia. </h3>
+</br>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielnov/)](https://www.linkedin.com/in/gabrielnov/)
+
+
+<h2> Knowledge and skills </h2>
+
+
+<ul>
+ <li>Java (including Spring Framework)</li>
+ <li>Javascript (including Angular and React) </li>
+ <li>Python </li>
+ <li>Expertise in advanced information search (aka googling) </li>
+ <li>SQL and PL/SQL </li>
+ <li>Cloud and network </li>
+ <li>Watching all Mr. Robot episodes (basically an expert hacker) </li>
+ <li>DevOps and agile development </li>
+ <li>Complaining (a lot) about javascript </li> 
+</ul>
+
 
 
  
