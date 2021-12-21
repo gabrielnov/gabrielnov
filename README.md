@@ -16,7 +16,7 @@
  <li>Expertise in advanced information search (aka googling) </li>
  <li>SQL and PL/SQL </li>
  <li>Cloud and network </li>
- <li>Watching all Mr. Robot episodes (basically an expert hacker) </li>
+ <li>Watching all Mr. Robot episodes (basically Im an expert hacker) </li>
  <li>DevOps and agile development </li>
  <li>Complaining (a lot) about javascript </li> 
 </ul>
