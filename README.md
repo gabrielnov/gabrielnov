@@ -1,7 +1,7 @@
 <h2> Hi there! </h2> 
 
 <h3> Analista de Segurança da Informação Pleno na Globo </h3>
-<h3> CyberSecurity Analyst at Globo </h3>
+<h3> Cybersecurity Analyst at Globo </h3>
 </br>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielnov/)](https://www.linkedin.com/in/gabrielnov/)
