@@ -1,6 +1,6 @@
 <h2> Hi there! </h2> 
 
-<h3> Analista de Segurança da Informação Pleno na Globo </h3>
+<h3> Analista de Segurança da Informação Pleno | Globo </h3>
 <h3> Cybersecurity Analyst at Globo </h3>
 </br>
 
