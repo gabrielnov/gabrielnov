@@ -26,10 +26,9 @@
  
 <h2> GitHub Stats </h2>
 
-
-![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnov&theme=tokyonight&layout=compact)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnov&show_icons=true&theme=tokyonight&layout=compact)
-
+<div>
+ <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnov&theme=tokyonight&layout=compact"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielnov&show_icons=true&theme=tokyonight&layout=compact"/>
+</div>
 
 
