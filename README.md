@@ -2,7 +2,7 @@
 
 <h3> Analista de Segurança da Informação Pleno </h3>
 
-<h4> Desenvolvo SecTools na <a href="https://github.com/globocom">Globo</a></h4>
+<h4> Desenvolvedor de SecTools na <a href="https://github.com/globocom">Globo</a></h4>
  </br>
 <h3> Cybersecurity Analyst </h3>
 <h4> SecTools development at <a href="https://github.com/globocom">Globo</a></h4>
