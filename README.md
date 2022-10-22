@@ -4,8 +4,8 @@
 
 <h4> Desenvolvedor de SecTools na <a href="https://github.com/globocom">Globo</a></h4>
  </br>
-<h3> Cybersecurity Analyst </h3>
-<h4> SecTools development at <a href="https://github.com/globocom">Globo</a></h4>
+
+<h4> Cybersecurity Analyst at <a href="https://github.com/globocom">Globo</a></h4>
  </br>
  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielnov/)](https://www.linkedin.com/in/gabrielnov/)
@@ -15,13 +15,13 @@
 
 
 <ul>
- <li> Go </li>
- <li>Java (including Spring Framework)</li>
+ <li>Go </li>
+ <li>Java and Spring Framework</li>
  <li>Javascript  </li>
  <li>Python </li>
- <li>SQL and PL/SQL </li>
+ <li>SQL and NoSQL</li>
  <li>Cloud and network </li>
- <li>DevOps and agile development </li>
+ <li>DevOps and infraestructure </li>
 </ul>
 
 
