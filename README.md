@@ -1,11 +1,6 @@
 <h2> Hi there! </h2> 
 
-<h3> Analista de Segurança da Informação Pleno </h3>
-
-<h4> Desenvolvedor de SecTools na <a href="https://github.com/globocom">Globo</a></h4>
- </br>
-
-<h4> Cybersecurity Analyst at <a href="https://github.com/globocom">Globo</a></h4>
+<p> Cybersecurity Analyst at <a href="https://github.com/globocom">Globo</a></p>
  </br>
  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielnov/)](https://www.linkedin.com/in/gabrielnov/)
@@ -34,5 +29,4 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnov&theme=tokyonight&layout=compact"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielnov&show_icons=true&theme=tokyonight&layout=compact"/>
 </div>
-
 
