@@ -8,20 +8,7 @@
 
 <h2> Knowledge and skills </h2>
 
-
-<ul>
- <li>Go </li>
- <li>Java and Spring Framework</li>
- <li>Javascript  </li>
- <li>Python </li>
- <li>SQL and NoSQL</li>
- <li>Cloud and network </li>
- <li>DevOps and infraestructure </li>
-</ul>
-
-
-
- 
+xdd
  
 <h2> GitHub Stats </h2>
 
