@@ -5,10 +5,6 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielnov/)](https://www.linkedin.com/in/gabrielnov/)
 
-
-<h2> Knowledge and skills </h2>
-
-xdd
  
 <h2> GitHub Stats </h2>
 
