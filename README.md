@@ -2,8 +2,6 @@
 
 <p> Cybersecurity Analyst at <a href="https://github.com/globocom">Globo</a></p>
  </br>
- 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielnov/)](https://www.linkedin.com/in/gabrielnov/)
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/gabrielnov.png" alt="TryHackMe">
