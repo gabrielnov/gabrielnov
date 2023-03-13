@@ -4,7 +4,6 @@
  </br>
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/gabrielnov.png" alt="TryHackMe">
  
  
 <h2> GitHub Stats </h2>
