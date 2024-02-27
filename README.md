@@ -1,6 +1,6 @@
 <h2> Hi there! </h2> 
 
-<p> Cybersecurity Analyst at <a href="https://github.com/globocom">Globo</a></p>
+<p> Engineer at <a href="https://github.com/globocom">Globo</a></p>
  </br>
 
 
